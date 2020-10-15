@@ -1,7 +1,7 @@
 # AllThingsXXE
 **This is a collection of writeups, cheatsheets, videos, related to XXE in one single location**
 
-This is currently work in progress I will add more resources as I find them.
+This is currently work in progress I will add more resources as I continue my learning.
 
 ![XXE](/Images/logo.jpg)
 
