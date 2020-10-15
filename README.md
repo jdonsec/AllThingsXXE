@@ -3,7 +3,7 @@
 
 This is currently work in progress I will add more resources as I find them.
 
-![XXE](/images/logo.jpg)
+![XXE](/Images/logo.jpg)
 
 ### Created By [@jdonsec](https://twitter.com/jdonsec)
 
