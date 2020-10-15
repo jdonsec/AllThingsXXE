@@ -37,7 +37,7 @@ This is currently work in progress I will add more resources as I continue my le
 
 - [#334488 Blind XXE via Powerpoint files](https://hackerone.com/reports/334488)
 
-- [#248668 XXE on sms-be-vip.twitter.com in SXMP Processor](https://hackerone.com/reports/248668)[Great report example]
+- [#248668 XXE on sms-be-vip.twitter.com in SXMP Processor](https://hackerone.com/reports/248668) [Great report example]
 
 - [#347139 LFI and SSRF via XXE in emblem editor](https://hackerone.com/reports/347139)
 
