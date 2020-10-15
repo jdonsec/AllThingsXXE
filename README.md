@@ -57,9 +57,9 @@ This is currently work in progress I will add more resources as I continue my le
 
 - [#223203 SVG Server Side Request Forgery (SSRF)](https://hackerone.com/reports/223203)
 
-- [#105753 app.informaticaondemand.com XXE](https://hackerone.com/reports/105753) [Looks interesting wish the report was much better so we could all learn from it.]
+- [#105753 app.informaticaondemand.com XXE](https://hackerone.com/reports/105753) Looks interesting wish the report was much better so we could all learn from it.
 
-- [#106865 rev-app.informatica.com - XXE via SAML](https://hackerone.com/reports/106865) [Same here wish the report was better]
+- [#106865 rev-app.informatica.com - XXE via SAML](https://hackerone.com/reports/106865) Same here wish the report was better
 
 - [#105980 XXE at host vpn.owncloud.com](https://hackerone.com/reports/105980)
 
